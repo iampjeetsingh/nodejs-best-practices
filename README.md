@@ -1,4 +1,17 @@
-# 🌟 Best Practices in Node.js
+<p align="center">
+    <h1 align="center">🌟 Best Practices in Node.js</h1>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## ⭐️ Show Your Support
+
+If you find this list helpful or interesting, please consider giving it a star on GitHub. It's a simple way to show your support and helps me grow!
+
+[![GitHub stars](https://img.shields.io/github/stars/iampjeetsingh/nodejs-best-practices.svg?style=social&label=Star)](https://github.com/iampjeetsingh/nodejs-best-practices)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## 📁 MVC Pattern:
 The MVC (Model-View-Controller) pattern is a software architectural design pattern commonly used in web development to separate concerns and organize code in a structured and maintainable manner. It divides an application into three major components: Models, Views, and Controllers.
 
@@ -99,4 +112,32 @@ Implement data validation and constraints at the database level using Mongoose s
 ## 📈 Performance Monitoring:
 Regularly monitor and optimize your API's performance using tools like New Relic, Datadog, or custom logging and monitoring solutions. For example, use New Relic to monitor response times and identify performance bottlenecks.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+## 🤝 Contributing
+Contributions to the documentation are highly appreciated! If you would like to contribute, please follow these guidelines:
+
+1. Fork the repository and clone it to your local machine.
+2. Make your modifications or additions to the documentation files.
+3. Ensure that your changes follow the established style guide and documentation conventions.
+4. Test your changes to ensure they are accurate and easy to understand.
+5. Commit your changes with clear and descriptive commit messages.
+6. Push your branch to your forked repository.
+7. Open a pull request, providing a detailed description of the changes you have made.
+
+Thank you for helping to improve the documentation and make it more helpful for others!
+
+## Connect with me
+
+<div align="center">
+<a href="https://github.com/iampjeetsingh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/thesupremeone" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://iampjeetsingh.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/-WEBSITE-brightgreen?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
+</a> 
+</div> 
+    
